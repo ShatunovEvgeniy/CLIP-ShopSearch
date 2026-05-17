@@ -1,0 +1,10 @@
+transformers
+datasets
+torch
+torchvision
+Pillow
+tqdm
+matplotlib
+pandas
+scikit-learn
+kagglehub
